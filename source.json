@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "HentaiEra",
+      "urlPattern": "hentaiera.com",
+      "searchUrl": "https://hentaiera.com/search/?key={term}"
+    }
+  ],
+  "file": "hentaiera.js"
+}
